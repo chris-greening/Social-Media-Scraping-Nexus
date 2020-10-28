@@ -3,6 +3,7 @@ Below are resources for scraping different social media platforms using Python
 ## Table of Contents
 * [Instagram](#instagram)
 * [Facebook](#facebook)
+* [Twitter](#twitter)
 
 ## Instagram <a name="instagram"></a>
 
@@ -37,3 +38,11 @@ Below are resources for scraping different social media platforms using Python
   * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kevinzg/facebook-scraper?style=social">
   * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kevinzg/facebook-scraper">
   * <img alt="GitHub issues" src="https://img.shields.io/github/issues/kevinzg/facebook-scraper">
+  
+## Twitter <a name="twitter"></a>
+
+* [taspinar/twitterscraper](https://github.com/taspinar/twitterscraper)
+  * Scrape Twitter for Tweets
+  * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/taspinar/twitterscraper?style=social">
+  * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/taspinar/twitterscraper">
+  * <img alt="GitHub issues" src="https://img.shields.io/github/issues/taspinar/twitterscraper">
