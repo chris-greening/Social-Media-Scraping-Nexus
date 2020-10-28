@@ -1,6 +1,10 @@
 Below are resources for scraping different social media platforms using Python 
 
-## Instagram 
+## Table of Contents
+* [Instagram](#instagram)
+* [Facebook](#facebook)
+
+## Instagram <a name="instagram"></a>
 
 * [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper)
   * Scrapes an instagram user's photos and videos
@@ -20,7 +24,7 @@ Below are resources for scraping different social media platforms using Python
   * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chris-greening/instascrape">
   * <img alt="GitHub issues" src="https://img.shields.io/github/issues/chris-greening/instascrape">
 
-## Facebook 
+## Facebook <a name="facebook"></a>
 
 * [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper)
   *  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
