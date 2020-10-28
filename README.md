@@ -1,7 +1,7 @@
 # Social Media Scraping Nexus
-The purpose of this repository is to provide links to useful resources for scraping social media content. 
+The purpose of this repository is to act as a database of links to social media scraping libraries, resources, tutorials etc.
 
-Want to add some resources? Submit a PR! 
+All contributions are welcome, feel free to submit a PR if you want to add more resources! :heart:
 
 ## Languages
 * [Python](/python) 
