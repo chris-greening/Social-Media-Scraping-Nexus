@@ -1,2 +1,2 @@
 # Social-Media-Scraping-Nexus
-Resources for scraping social media content in as many languages as possible
+The purpose of this repository is to provide links to useful resources for scraping social media content
