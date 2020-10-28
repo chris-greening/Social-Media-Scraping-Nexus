@@ -19,3 +19,17 @@ Below are resources for scraping different social media platforms using Python
   * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chris-greening/instascrape?style=social">
   * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chris-greening/instascrape">
   * <img alt="GitHub issues" src="https://img.shields.io/github/issues/chris-greening/instascrape">
+
+## Facebook 
+
+* [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper)
+  *  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
+  * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/harismuneer/Ultimate-Facebook-Scraper?style=social">
+  * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/harismuneer/Ultimate-Facebook-Scraper">
+  * <img alt="GitHub issues" src="https://img.shields.io/github/issues/harismuneer/Ultimate-Facebook-Scraper">
+
+* [kevinzg/facebook-scraper](https://github.com/kevinzg/facebook-scraper)
+  * Scrape Facebook public pages without an API key
+  * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kevinzg/facebook-scraper?style=social">
+  * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kevinzg/facebook-scraper">
+  * <img alt="GitHub issues" src="https://img.shields.io/github/issues/kevinzg/facebook-scraper">
