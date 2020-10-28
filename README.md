@@ -3,3 +3,4 @@ The purpose of this repository is to provide links to useful resources for scrap
 
 ## Languages
 * [Python](/python) 
+* [TypeScript](/typescript)
