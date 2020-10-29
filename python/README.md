@@ -4,6 +4,7 @@ Below are resources for scraping different social media platforms using Python
 * [Instagram](#instagram)
 * [Facebook](#facebook)
 * [Twitter](#twitter)
+* [Linkedin](#linkedin)
 
 ## Instagram <a name="instagram"></a>
 
@@ -46,3 +47,10 @@ Below are resources for scraping different social media platforms using Python
   * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/taspinar/twitterscraper?style=social">
   * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/taspinar/twitterscraper">
   * <img alt="GitHub issues" src="https://img.shields.io/github/issues/taspinar/twitterscraper">
+  
+## Linkedin <a name="linkedin"></a>
+* [austinoboyle/scrape-linkedin-selenium](https://github.com/austinoboyle/scrape-linkedin-selenium)
+  * `scrape_linkedin` is a python package that allows you to scrape personal LinkedIn profiles & company pages - turning the data into structured json.
+  * <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/austinoboyle/scrape-linkedin-selenium?style=social">
+  * <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/austinoboyle/scrape-linkedin-selenium">
+  * <img alt="GitHub issues" src="https://img.shields.io/github/issues/austinoboyle/scrape-linkedin-selenium">
